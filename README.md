@@ -1,4 +1,4 @@
-# General-Purpose-Minecraft-Servers-Launch-File
+General-Purpose-Minecraft-Servers-Launch-File
 =========================================================
 
 正如题目所见，这是一个帮助小白服主开设服务器的“程序”
