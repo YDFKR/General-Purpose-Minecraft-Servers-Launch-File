@@ -27,13 +27,7 @@ Use the Apache-2.0 license
 
 _________________________________________________________
 
-**本启动文件仅支持中文 暂不支持英文**
 
-**ps英文版本最快可能会在v3.0发布时一同发出**
-
-**This startup file only supports Chinese, not English at the moment**
-
-**The English version may be released as soon as v3.0 is released**
 
 *开发者 “YDFKR”“羊叫兽OwO"*
 
